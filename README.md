@@ -59,13 +59,17 @@ _The techniques and functions you plan to use to import, wrangle, visualize, and
 
 _The models you plan to use, your response and predictor variables, and why the models fit your research question._
 
+- I plan to use simple linear models as they can do a great job of predicting how much test scores can go up or down as a variable changes such as English proficiency. My response variables are academic outcomes such as rate of students below proficiency for assessments, drop out rate, and graduation rates. My predictor variables will be variables such as school district, chronic absenteeism rate, percent of students receiving free meals, and English proficiency rate.
 
 ## 7. Communicate
 
 _How you plan to present your results (website, poster, or short slide presentation)._
 
+- I will communicate my results using a slide presentation with graphs and numeric summary results.
 
 ## 8. LLM disclaimer
 
 _Whether and how you will use AI tools: the specific tool, its use, and your data protection methods. If you won't use any, say so._
+
+- I plan to use LLMs to help come up with interesting ideas to explore using my data and to debug any errors I encounter with R. The LLM I plan to use is ChatGPT. This data is already public information and doesn’t contain any highly identifiable info such as name, birth date, or zip code, but I will still avoid pasting information from the dataset into ChatGPT to ensure I follow best practices.
 
