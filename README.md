@@ -22,23 +22,28 @@ _A clear association between a response and at least one predictor variable._
 
 _In 1-2 sentences, describe the data you intend to collect and how you will get it._
 
-- I intend to use [educational data records collected by the California Department of Education](https://www.cde.ca.gov/ds/ad/downloadabledata.asp). On that site they have many datasets of several formats (csv, XLSX, etc) and each dataset corresponds to a particular year and topic such as assessment scores, foster youth, and graduation rates.
-- Data dictionary:
+- I intend to use educational data records collected by the California Department of Education. On that site they have many datasets of several formats (csv, XLSX, etc) and each dataset corresponds to a particular year and topic such as assessment scores, foster youth, and graduation rates.
   
-| Column 1 | Column 2 | Column 3 |
-| :--- | :---: | ---: |
-| Var 1 | info | more info |
-| Var 2 | info |  moreeee info |
-
 ### a. Confirm viability
 
 _Scraping: summarize the "Before You Scrape" checklist. Downloading: citation, link to the documentation, and how the data were originally collected. Collecting it yourself: how you are collecting it and where you are storing it._
 
+- I am using data from the [California Department of Education's website](https://www.cde.ca.gov/ds/ad/downloadabledata.asp). This data is collected by individual schools then reported to the Department of Education.
 
 ### b. Variables of interest
 
 _If you do not have the data yet, list the variables you plan to collect and the exact question text. Include 1) the variable name, 2) data type 3) description. Use bullet points._
 
+| Variable name | Description | Quantitative or Qualitative |
+| :--- | :---: | ---: |
+| District Code	 | A unique five digit code for the district | Quantitative |
+| County Name | Name of California county |  Quantitative |
+| School Code | A unique seven digit code for the school. |  Quantitative |
+| Chronic Absenteeism Rate | Rate of students absent more than 10% of school days |  Quantitative |
+| Percentage Below Proficient | Percent of students with test scores below proficient |  Quantitative |
+| Percent (%) Eligible Free (TK/K-12) | The percent of students eligible for free meals |  Quantitative |
+| Regular HS Diploma Graduates (Rate) | The percent of students who received a standard diploma |  Quantitative |
+| TOTAL | Total fluent-English-proficient (FEP) students |  Quantitative |
 
 ## 4. Data example
 
