@@ -1,12 +1,12 @@
-# Project 02 Proposal: <your project title>
+# Project 02 Proposal: Predicting Academic Success in California Schools
 
-**Team members:** <name(s)>
-
-See the [Project 02 instructions](https://data385.github.io/project/proj02_wholegame.html) for what goes in each section. Bullet points are great. Put any images in an `img/` folder.
+**Team members:** Alexander Stevens
 
 ## 1. Problem statement
 
 _Who has the problem, what decision or need it involves, why it matters, and what you expect to find._
+- I want to help schools and students by ensuring students are as academically successful as possible. This is a problem that affects school faculty and students. Solving this problem requires looking at data to determine what correlates with negative academic outcomes and how faculty and students can change their ways to minimize those negative outcomes. This problem matters a lot for students since academic success is strongly correlated with success in life and it matters for school faculty as their funding and revenue often depends on how many students they have and how well their students do.
+- Through examining this problem I expect to find academic success is dependent on many variables rather than just a few. I suspect there will be a few obvious factors like not attending class to lead to worse outcomes, but I also suspect there will be a few things I find surprising in the data.
 
 
 ## 2. Research question
