@@ -22,6 +22,12 @@ _A clear association between a response and at least one predictor variable._
 
 _In 1-2 sentences, describe the data you intend to collect and how you will get it._
 
+- I intend to use [educational data records collected by the California Department of Education](https://www.cde.ca.gov/ds/ad/downloadabledata.asp). On that site they have many datasets of several formats (csv, XLSX, etc) and each dataset corresponds to a particular year and topic such as assessment scores, foster youth, and graduation rates.
+- Data dictionary:
+| Column 1 | Column 2 | Column 3 |
+| :--- | :---: | ---: |
+| Var 1 | info | more info |
+| Var 2 | info |  moreeee info |
 
 ### a. Confirm viability
 
