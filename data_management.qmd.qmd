@@ -1,0 +1,12 @@
+---
+title: "data"
+format: pdf
+---
+
+```{r}
+library(tidyverse)
+glimpse(read_tsv("data/english_learners24-25.txt"))
+glimpse(read_tsv("data/chronicabsenteeism25-v2.txt"))
+glimpse(read_tsv("data/graduation_rate_24-25.txt"))
+glimpse(read_csv("data/sb_ca2025_1.csv"))
+```
