@@ -49,10 +49,16 @@ _If you do not have the data yet, list the variables you plan to collect and the
 
 _Scraping: a URL and an annotated screenshot. Downloading: a link to your rendered `data_management.pdf` with `glimpse()`. Collecting: a screenshot of one example row._
 
+[Link to data management pdf](https://github.com/astev423/proj02-predicting-academic-success/blob/main/data_management.pdf)
 
 ## 5. EDA
 
 _The techniques and functions you plan to use to import, wrangle, visualize, and explore the data, and why each is needed._
+
+- I will need to use functions to read the various file formats like read_csv() and read_excel(). Since the data is spread into different sheets I will need to use different joins, such as left_join(), to gather a complete dataframe, then save that with write_csv().
+- I expect to use mutate() and case_when() to make values better suited for graphing, such as changing percentages to numerical values. 
+- I expect to use filter() and select() to hone in on the exact rows and columns I need and then summarize() to gather sums, means, IQRs, etc.
+- I expect to use a lot of bar and column plots as there is a lot of categorical and numerical data and I find these plots are great at visualizing data. I will also use box plots to represent the range of different grades for a given categorical group.
 
 
 ## 6. Modeling
