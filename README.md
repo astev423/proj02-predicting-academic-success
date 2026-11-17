@@ -65,7 +65,7 @@ _The techniques and functions you plan to use to import, wrangle, visualize, and
 
 _The models you plan to use, your response and predictor variables, and why the models fit your research question._
 
-- I plan to use simple linear models as they can do a great job of predicting how much test scores can go up or down as a variable changes such as English proficiency. My response variables are academic outcomes such as rate of students below proficiency for assessments, drop out rate, and graduation rates. My predictor variables will be variables such as school district, chronic absenteeism rate, percent of students receiving free meals, and English proficiency rate.
+- I plan to use simple linear models and multiple linear regression as they can do a great job of predicting how academic outcomes are affected as one or more variable changes such as English proficiency. My response variables are academic outcomes such as rate of students below proficiency for assessments, drop out rate, and graduation rates. My predictor variables will be variables such as school district, chronic absenteeism rate, percent of students receiving free meals, and English proficiency rate.
 
 ## 7. Communicate
 
